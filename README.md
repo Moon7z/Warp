@@ -1,10 +1,10 @@
-# Coding Master
+# Warp
 
 AI-powered VS Code extension for code optimization, explanation, and test generation using Claude API.
 
 ---
 
-Coding Master 是一款基于 Claude API 的 VS Code 智能编程助手。
+Warp 是一款基于 Claude API 的 VS Code 智能编程助手。
 
 ## 主要功能
 
@@ -30,11 +30,11 @@ npm run compile
 
 首次使用需设置 Anthropic API Key：
 
-1. 打开侧边栏（点击左侧活动栏的 Coding Master 图标）
+1. 打开侧边栏（点击左侧活动栏的 Warp 图标）
 2. 在输入框中输入您的 API Key
 3. 点击"保存 API Key"按钮
 
-或使用命令：`Coding Master: 设置 API Key`
+或使用命令：`Warp: 设置 API Key`
 
 ### 2. 使用功能
 
